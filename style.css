@@ -53,7 +53,11 @@ p {
     font-size: 16px;
     display: inline;
 }
-
+aside{
+    position: absolute;
+    top: 825px;;
+    left: 700px; 
+}
 .hero {
     height: 800px;
     width: 100%;
@@ -78,12 +82,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-aside{
-    position: absolute;
-    top: 825px;;
-    left: 700px;
-    
-}
+
 
 .benefits {
     margin-right: 20px;
